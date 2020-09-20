@@ -30,7 +30,7 @@ Test Data:  2020-04-16 to 2020-08-28  [ 96 points]
 The project was implemented using a Jupyter notebook, which is available in current repository.
 
 A screenshot of the Jupyter Notebook running locally on our laptops:
-![Jupyter](/images/Jupyter_local_01.png){ height="36px" width="36px" }
+![Jupyter](/images/Jupyter_local_01.png){height="36px" width="36px"}
 
 ## Implementation in Azure - Notebook
 
