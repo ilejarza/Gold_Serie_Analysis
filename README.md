@@ -25,3 +25,13 @@ For this project we splitted the Dataset with the following criteria:
 Train Data: 2017-01-02 to 2020-04-16  [859 points]  
 Test Data:  2020-04-16 to 2020-08-28  [ 96 points]  
 
+## Implementation using a Jupyter Notebook
+
+The project was implemented using a Jupyter notebook, which is available in current repository.
+
+A screenshot of the Jupyter Notebook running locally on our laptops:
+![GitHub Logo](/images/Jupyter_local_01.png)
+
+## Implementation in Azure - Notebook
+
+A notebook
