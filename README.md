@@ -21,7 +21,7 @@ That dataset was normalized using a MinMaxScaler() from sklearn.preprocessing.
 After testing many different approachs, we obtained the best approach by using a Long-Short Temr Mempory Neural Network.
 
 ## Train/Test Data Splitting
-For this project we splitted the Dataset with the following criteria:
-Train Data: 2017-01-02 to 2020-04-16  [859 points]
-Test Data:  2020-04-16 to 2020-08-28  [ 96 points]
+For this project we splitted the Dataset with the following criteria:  
+Train Data: 2017-01-02 to 2020-04-16  [859 points]  
+Test Data:  2020-04-16 to 2020-08-28  [ 96 points]  
 
